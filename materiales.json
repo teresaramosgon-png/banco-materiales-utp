@@ -1,0 +1,92 @@
+[
+  {
+    "id": "len-001",
+    "asignatura": "Lenguaje",
+    "titulo": "Comprensión lectora — Textos informativos",
+    "descripcion": "Lectura de texto informativo corto con preguntas de comprensión literal e inferencial. Apto para trabajar de forma autónoma.",
+    "cursos": ["5°", "6°"],
+    "bloques": 1,
+    "tipo": "Guía",
+    "url": "https://drive.google.com/file/d/REEMPLAZAR_CON_ID_REAL/view"
+  },
+  {
+    "id": "len-002",
+    "asignatura": "Lenguaje",
+    "titulo": "Lectura silenciosa y resumen",
+    "descripcion": "El estudiante lee un texto narrativo breve y elabora un resumen con sus propias palabras. Incluye pauta de evaluación.",
+    "cursos": ["7°", "8°"],
+    "bloques": 2,
+    "tipo": "Actividad",
+    "url": "https://drive.google.com/file/d/REEMPLAZAR_CON_ID_REAL/view"
+  },
+  {
+    "id": "mat-001",
+    "asignatura": "Matemática",
+    "titulo": "Ejercicios de operaciones básicas",
+    "descripcion": "Guía de ejercitación de suma, resta, multiplicación y división. Nivel básico, ideal para cualquier reemplazante.",
+    "cursos": ["3°", "4°"],
+    "bloques": 1,
+    "tipo": "Guía",
+    "url": "https://drive.google.com/file/d/REEMPLAZAR_CON_ID_REAL/view"
+  },
+  {
+    "id": "mat-002",
+    "asignatura": "Matemática",
+    "titulo": "Actividad neuroeducativa — Cálculo mental",
+    "descripcion": "Serie de desafíos de cálculo mental con dificultad progresiva. Estimula atención sostenida y agilidad numérica.",
+    "cursos": ["5°", "6°", "7°"],
+    "bloques": 1,
+    "tipo": "Actividad",
+    "url": "https://drive.google.com/file/d/REEMPLAZAR_CON_ID_REAL/view"
+  },
+  {
+    "id": "mat-003",
+    "asignatura": "Matemática",
+    "titulo": "Problemas de aplicación cotidiana",
+    "descripcion": "Situaciones problemáticas contextualizadas en la vida diaria. Fomenta el pensamiento matemático en contexto real.",
+    "cursos": ["1° Medio", "2° Medio"],
+    "bloques": 2,
+    "tipo": "Guía",
+    "url": "https://drive.google.com/file/d/REEMPLAZAR_CON_ID_REAL/view"
+  },
+  {
+    "id": "cie-001",
+    "asignatura": "Ciencias",
+    "titulo": "Observación y registro del entorno natural",
+    "descripcion": "Actividad de observación guiada. Los estudiantes observan y dibujan elementos del entorno respondiendo preguntas científicas básicas.",
+    "cursos": ["3°", "4°", "5°"],
+    "bloques": 1,
+    "tipo": "Actividad",
+    "url": "https://drive.google.com/file/d/REEMPLAZAR_CON_ID_REAL/view"
+  },
+  {
+    "id": "his-001",
+    "asignatura": "Historia",
+    "titulo": "Análisis de fuente histórica — Imagen",
+    "descripcion": "El estudiante observa una imagen histórica y responde preguntas guiadas sobre contexto, personajes y mensaje.",
+    "cursos": ["7°", "8°", "1° Medio"],
+    "bloques": 1,
+    "tipo": "Guía",
+    "url": "https://drive.google.com/file/d/REEMPLAZAR_CON_ID_REAL/view"
+  },
+  {
+    "id": "gen-001",
+    "asignatura": "General",
+    "titulo": "Actividad neuroeducativa — Mindfulness para el aula",
+    "descripcion": "Secuencia de 5 minutos de respiración consciente + actividad de foco atencional. Sirve para cualquier asignatura como inicio de clase.",
+    "cursos": ["1°", "2°", "3°", "4°", "5°", "6°", "7°", "8°", "1° Medio", "2° Medio"],
+    "bloques": 1,
+    "tipo": "Actividad",
+    "url": "https://drive.google.com/file/d/REEMPLAZAR_CON_ID_REAL/view"
+  },
+  {
+    "id": "gen-002",
+    "asignatura": "General",
+    "titulo": "Dibujo libre con consigna reflexiva",
+    "descripcion": "El estudiante dibuja y escribe en torno a una pregunta reflexiva. Fomenta la creatividad y la expresión emocional.",
+    "cursos": ["1°", "2°", "3°", "4°", "5°", "6°"],
+    "bloques": 1,
+    "tipo": "Actividad",
+    "url": "https://drive.google.com/file/d/REEMPLAZAR_CON_ID_REAL/view"
+  }
+]
